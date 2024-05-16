@@ -26,7 +26,7 @@ This phase bridges theory with practical application, as we translate our meticu
 By distinguishing between the software and hardware components of our project, we aim to provide a comprehensive understanding of both the theoretical foundations and the practical considerations involved in achieving accurate path following for wheeled mobile robots.
 
 
-# WHAT HAVE WE DONE IN THE PROJECT:
+# Project Progress Report:
 
 •	Study of Kinematic model of mobile robots through an NPTEL course, “Wheeled Mobile Robots”, IIT Palakkad.
 •	Study of dynamic model of wheeled mobile robot through a research paper, “Dynamic Modelling of Differential-Drive Mobile Robots using Lagrange and Newton-Euler Methodologies: A unified Framework, 2013” By Rached and Ahmad Abu Hatab
